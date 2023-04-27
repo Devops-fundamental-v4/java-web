@@ -8,6 +8,4 @@ steps:
 
 - script: |
     echo Hola Mundo
-    echo $(REPOSITORIO)
-    echo $(STATUSACTION)
   displayName: 'Hola mundo'
